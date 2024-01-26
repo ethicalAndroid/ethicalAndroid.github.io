@@ -37,6 +37,8 @@ I'll be posting more here, so stay tuned for updates!
 
 Oh, and you can find links to all of the mentioned games right here:
 
+- [Scratch Games](https://scratch.mit.edu/users/WumpleDoodle/)
+
 - [Bombing Run](https://wumpledoodle.itch.io/bombingrun)
 
 - [Corn Quest](https://wumpledoodle.itch.io/corn-quest)
