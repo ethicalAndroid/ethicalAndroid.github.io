@@ -2,7 +2,7 @@
 title: Hello World!
 date: 2024-01-25
 categories: [Meta, Story]
-tags: [meta, gamedev]     # TAG names should always be lowercase
+tags: [meta, story, gamedev]     # TAG names should always be lowercase
 ---
 Hello everyone!
 
