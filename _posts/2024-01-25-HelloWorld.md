@@ -7,7 +7,7 @@ tags: [meta, story, gamedev]     # TAG names should always be lowercase
 Hello everyone!
 
 My name is **Mateo de la Rosa**, but I am known by my username **WumpleDoodle**.
-I'm an indie dev from North America, specifically the U.S. state of Virginia!
+I'm an indie dev from the United States of America, specifically the U.S. state of Virginia!
 I have been making games since I was a kid, and I haven't stopped since.
 
 My first games were made in the **Scratch** programming language.
